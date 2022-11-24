@@ -1,0 +1,38 @@
+.empresa-card{
+    margin: 1rem auto;
+    padding: 1rem;
+    text-align: center;
+}
+
+.empresa-card img{
+    margin-bottom: 1.25rem;
+    width: 20%;
+}
+
+.empresa-card h3{
+    color: var(--title-color);
+}
+
+.fa-check{
+    position: absolute;
+    left: 0;
+    width: 20px;
+    height: 20px;
+    padding: 3px;
+    border-width: 1px;
+    border-style: solid;
+    border-radius: 50%;
+    text-align: center;
+    line-height: 1.3;
+    font-size: 0.8em;
+    top: 7px;
+    font-weight: 900;
+    color: #BC102B;
+    border-color: #BC102B;
+}
+
+.list-card li{
+    padding: 5px 0;
+    padding-left: 30px;
+    position: relative;
+}

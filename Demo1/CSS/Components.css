@@ -1,0 +1,12 @@
+/*Header*/
+@import './Components/header.css';
+@import './Components/menu.css';
+@import './Components/heroImage.css';
+@import './Components/about.css';
+@import './Components/empresaCard.css';
+@import './Components/service.css';
+@import './Components/modal.css';
+@import './Components/serviceCard.css';
+@import './Components/contact.css';
+@import './Components/contactCard.css';
+@import './Components/formContact.css';

@@ -1,0 +1,31 @@
+@media screen and (min-width: 1024px) {
+    .about{
+        display: grid;
+        align-content: center;
+        
+    }
+
+    .about-section-1{
+        display: grid;
+        grid-template-columns: repeat(2, 45%);
+        justify-content: space-between;
+        align-content: center;
+
+    }
+
+    .about-section-1 article{
+        padding-bottom: 0;
+        margin-bottom: 0;
+    }
+
+    .about-section-2{
+        display: grid;
+        grid-template-columns: repeat(3, 30%);
+        justify-content: space-between;
+    }
+
+    .about-section-2 div{
+        padding-left: 0;
+        padding-right: 0;
+    }
+}
